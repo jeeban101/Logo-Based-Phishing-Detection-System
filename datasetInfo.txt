@@ -1,0 +1,16 @@
+FakeReal Logo Detection dataset 
+    test 
+        Fake 
+        Genuine 
+    
+    train 
+        Fake 
+        Genuine 
+    
+image details: 
+    Dimensions: 512x512
+    Width: 512pixels
+    Height: 512 pixels
+    Horizontal resolution : 96 dpi
+    vertical resolution : 96 dpi
+    bit depth: 24
